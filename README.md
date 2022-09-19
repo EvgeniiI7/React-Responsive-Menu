@@ -1,4 +1,4 @@
-# Responsive Menu (NavBar) for React
+# Responsive Menu for React
 ```
 This is a responsive menu for React applications with the capability to include dropdown menu,
 using React Router 'react-router-dom' library to showcase the menu's functionality,
