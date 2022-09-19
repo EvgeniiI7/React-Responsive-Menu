@@ -15,7 +15,7 @@ Target:
 - breakpoints should be customizable
 - Can take drop down submenus, 1 level
 
-```
+
 Structure:
 
 - Parent Menu component:
@@ -39,4 +39,4 @@ Structure:
         - Regular menu items
         - Dropdown parent menu items
         - Drop down container for each dropdown parent, pushes in from top, pushes out
-```        
+     
