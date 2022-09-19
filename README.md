@@ -18,10 +18,12 @@ Structure:
 - Parent Menu component:
 
     Desktop:
+    ```
     - Brand
     - Regular menu items
     - Dropdown parent menu items
     - Dropdown container for each dropdown parent, show/hide
+    ```
 
     Mobile:
     - Brand
