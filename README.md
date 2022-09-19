@@ -38,7 +38,7 @@ Structure:
         - Regular menu items
         - Dropdown parent menu items
         - Drop down container for each dropdown parent, pushes in from top, pushes out
- <img src="https://user-images.githubusercontent.com/88345845/190940952-8ecb9283-0abe-4a81-bb2c-5ad40f7f3492.png" width="700"/>
- <img src="https://user-images.githubusercontent.com/88345845/190940957-f90c6804-3757-44d2-bd54-7c7b5b586713.png" width="700"/>
- <img src="https://user-images.githubusercontent.com/88345845/190940961-8b4ef83a-b438-451c-8a9d-695b6cf76f79.png" width="700"/>
+ <img src="https://user-images.githubusercontent.com/88345845/190940952-8ecb9283-0abe-4a81-bb2c-5ad40f7f3492.png" width="500"/>
+ <img src="https://user-images.githubusercontent.com/88345845/190940957-f90c6804-3757-44d2-bd54-7c7b5b586713.png" width="500"/>
+ <img src="https://user-images.githubusercontent.com/88345845/190940961-8b4ef83a-b438-451c-8a9d-695b6cf76f79.png" width="500"/>
  
